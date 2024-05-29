@@ -25,7 +25,7 @@ _**FYI: current version of gamemode is 1.8.1 for more up to date guide see [Game
 
 After that just:
 ```bash
-git clone https://github.com/gothboiprncss/gamemode-inhibit-swayidle
+git clone https://github.com/gothboiprncss/gamemode-inhibit-swayidle.git
 cd gamemode-inhibit-swayidle
 cp sleep.sh ~/.config/hypr/scripts
 cp gamemode.ini /usr/share/gamemode/
